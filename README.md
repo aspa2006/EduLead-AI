@@ -1,4 +1,5 @@
-# EduLead AI: An Artificial Intelligence Decision Support System for School Leaders in Nigeria
+# EduLead AI for School Leaders in Nigeria
+
 
 ## Summary
 
@@ -113,3 +114,5 @@ She is passionate about applying Artificial Intelligence to improve educational 
 ## Vision
 
 > *Empowering school leaders with Artificial Intelligence to make smarter, faster, and evidence-based decisions that improve education for every learner.*
+
+
