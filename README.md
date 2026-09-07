@@ -99,7 +99,7 @@ This project was inspired by:
 - Building AI – University of Helsinki
 - Elements of AI – University of Helsinki
 - My professional experience as a School Administrator
-- My PhD studies in Educational Administration at the National Open University of Nigeria (NOUN)
+- Aspiring PhD studies in Educational Administration
 - Current research in Artificial Intelligence in Education and Educational Leadership
 
 ---
