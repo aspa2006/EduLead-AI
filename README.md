@@ -9,7 +9,7 @@ EduLead AI is an Artificial Intelligence (AI)-powered decision support system de
 
 School leaders in Nigeria face numerous administrative challenges, including monitoring teacher performance, improving student achievement, managing limited financial resources, ensuring school safety, and implementing government educational policies effectively. Many of these decisions are made based on experience alone because school data is often underutilized.
 
-As a School Administrator and a PhD student in Educational Administration, I have observed these challenges firsthand. I believe Artificial Intelligence has the potential to transform educational leadership by helping administrators make timely, evidence-based, and data-driven decisions.
+As a School Administrator, I have observed these challenges firsthand. I believe Artificial Intelligence has the potential to transform educational leadership by helping administrators make timely, evidence-based, and data-driven decisions.
 
 This project explores how AI can support educational leaders in improving school effectiveness, teacher productivity, student success, and institutional management.
 
