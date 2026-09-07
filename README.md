@@ -106,7 +106,7 @@ This project was inspired by:
 
 ## About the Author
 
-**Justina Henry Odion** is a School Administrator, education researcher, and PhD student in Educational Administration at the National Open University of Nigeria (NOUN). Her research interests include educational leadership, school administration, educational governance, inclusive education, Artificial Intelligence in Education, and educational technology.
+**Justina Henry Odion** is a School Administrator and education researcher at the National Open University of Nigeria (NOUN). Her research interests include educational leadership, school administration, educational governance, inclusive education and Artificial Intelligence in Education.
 
 She is passionate about applying Artificial Intelligence to improve educational leadership, school management, policy implementation, and learning outcomes across Nigeria and Africa.
 
